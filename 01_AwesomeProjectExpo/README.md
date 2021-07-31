@@ -4,7 +4,10 @@
 <br>
 <img src='./assets/iphone01.png' width=300px/>
 
-#### This is the view rendered on an Iphone 7.
+#### This is the view rendered on an Iphone 7.  
+<br>
+<b>Test the App Online here 👉</b>&emsp;https://snack.expo.dev/@ronniealberto/01_awesomeprojectexpo
+
 ___
 <br>
 
